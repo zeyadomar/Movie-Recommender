@@ -10,9 +10,9 @@ the application is fully developed in java
 
 * run the controller class
 
-* choose your prefered movie from the available list of movies
+* rate the list of movies that showed up out of 5
 
-* the engine is going to recommend you a movie from the movies available in the database 
+* the engine is going to recommend you a movie from the movies available in the database based on your rating
 
 
 
