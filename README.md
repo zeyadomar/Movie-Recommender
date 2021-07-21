@@ -8,7 +8,7 @@ the application is fully developed in java
 
 * import the project files 
 
-* run the controller class
+* run the **Controller** class
 
 * rate the list of movies that showed up out of 5
 
