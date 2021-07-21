@@ -12,7 +12,7 @@ the application is fully developed in java
 
 * choose your prefered movie from the available list of movies
 
-* the engine is going to recommend movies from the movies available in the database 
+* the engine is going to recommend you a movie from the movies available in the database 
 
 
 
