@@ -4,8 +4,15 @@ an application that recommends movies based on the user's ratings for previous m
 
 the application is fully developed in java 
 
+## guideline
 
-to try the applciation download the project files and run the Controller Class
+* import the project files 
+
+* run the controller class
+
+* choose your prefered movie from the available list of movies
+
+* the engine is going to recommend movies from the movies available in the database 
 
 
-any critics are welcome  :)
+
